@@ -1,6 +1,6 @@
 # Sistema de Alunos em Python
 
-### Projeto desenvolvido como requisito parcial para conclusão do curso de *Introdução à Programação Python* do Instituto Federal São Paulo (IFSP) / Campus Sertãozinho. Meu primeiro projeto em programação.
+### Projeto desenvolvido como requisito parcial para conclusão do curso de *Introdução à Programação Python* do Instituto Federal São Paulo (IFSP) / Campus Sertãozinho. Meu primeiro projeto em programação, utilizando o *PyCharm*.
 
 
 &nbsp;
