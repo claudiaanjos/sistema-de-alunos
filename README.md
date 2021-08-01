@@ -59,9 +59,7 @@ Então, aparece na tela os resultados: quantidade de cadastros com a porcentagem
 
 ### ⚒️  Tecnologias
 
-A ferramenta utilizada no projeto foi:
-
-- Python.
+- [Python](https://www.python.org/)
 
 &nbsp;
 
