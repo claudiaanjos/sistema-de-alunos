@@ -52,14 +52,9 @@ Então, aparece na tela os resultados: quantidade de cadastros com a porcentagem
 <img src='img/figura5.png'>
 
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
-- [Python](https://www.python.org/)
 - [Pycharm - Community](https://www.jetbrains.com/pt-br/pycharm/download/)
-
-### ⚒️  Tecnologias
-
-- [Python](https://www.python.org/)
 
 &nbsp;
 
